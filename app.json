@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.user_thiagom.geradordenumerosaleatorios"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "54d039ef-b07f-4534-a2a2-7e8aabdf9b07"
+      }
+    },
+    "owner": "user_thiagom"
   }
 }
